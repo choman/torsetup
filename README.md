@@ -1,8 +1,8 @@
 # torsetup
 multuser tor
 
-http://www.webupd8.org/2013/12/tor-browser-bundle-ubuntu-ppa.html
-https://aur.archlinux.org/packages/tor-browser-en/
+* http://www.webupd8.org/2013/12/tor-browser-bundle-ubuntu-ppa.html
+* https://aur.archlinux.org/packages/tor-browser-en/
 
 
 Install via ppa (from webup8team)
